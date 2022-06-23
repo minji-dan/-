@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">whoRU</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">조회</string>
+    <string name="title_notifications">마이페이지</string>
+</resources>

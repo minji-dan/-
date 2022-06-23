@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178040705993",
+    "project_id": "whoru-701a0",
+    "storage_bucket": "whoru-701a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178040705993:android:e6061724b04460f9b60e18",
+        "android_client_info": {
+          "package_name": "com.example.whoru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178040705993-6tlm8ob3qsf2g4e120sfdcqpqvdelfrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPKFa5bC2Jq7Bs93kl7I9Nj1r3fqdvZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178040705993-6tlm8ob3qsf2g4e120sfdcqpqvdelfrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
